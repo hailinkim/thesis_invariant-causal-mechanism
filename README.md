@@ -1,5 +1,11 @@
 # Honors Thesis: Forecasting Non-Stationary Time Series with Causal Invariance
 
+## Status
+
+Work in Progress
+
+This project is currently under development as part of my honors thesis. Sections of this repository and its contents will be updated regularly as the research progresses.
+
 ## Overview
 
 This repository contains all the work for my honors thesis completed under the supervision of [Prof.Matteo Riondato](https://matteo.rionda.to/) at Amherst College, Computer Science Department. The thesis focuses on finding invariant causal mechanisms that enable robust time series forecasting in non-stationary environments. This project was funded by Amherst College [Gregory S. Call Undergraduate Research Fellowship](https://www.amherst.edu/academiclife/student-faculty-research/funding-for-student-research).
